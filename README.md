@@ -23,6 +23,3 @@ cd library-management-console
 dotnet run
 ```
 
-### 👨‍💻 Author
-
-**Mahdi Ebrahimi** — Junior .NET Developer
